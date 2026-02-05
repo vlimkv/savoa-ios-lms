@@ -50,7 +50,7 @@ Leveraging cybersecurity best practices (BSc background):
 2.  Open `SAVOA.xcodeproj` in Xcode 15+.
 3.  **Important:** Create `APIEndpoints.swift` in `Core/Network/` and set your base URL:
     ```swift
-    static let baseURL = "[https://api.your-domain.com](https://api.your-domain.com)"
+    static let baseURL = "https://api.your-domain.com"
     ```
 4.  Build and Run (⌘+R).
 
