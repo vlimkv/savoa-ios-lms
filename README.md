@@ -45,7 +45,7 @@ Leveraging cybersecurity best practices (BSc background):
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/AlimkhanSlambek/savoa-ios-lms.git](https://github.com/AlimkhanSlambek/savoa-ios-lms.git)
+    git clone https://github.com/vlimkv/savoa-ios-lms.git
     ```
 2.  Open `SAVOA.xcodeproj` in Xcode 15+.
 3.  **Important:** Create `APIEndpoints.swift` in `Core/Network/` and set your base URL:
