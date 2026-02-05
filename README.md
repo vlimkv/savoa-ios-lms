@@ -3,7 +3,7 @@
 A native iOS application designed for the **SAVOA** wellness ecosystem. This project serves as a mobile LMS (Learning Management System) client, delivering secure video courses, audio meditations, and progress tracking via a RESTful API.
 
 <p align="center">
-  <img src="SAVOA/Resources/demo.gif" alt="App Demo" width="25%">
+  <img src="SAVOA/Resources/demo.gif" alt="App Demo" width="20%">
 </p>
 
 ## 🛠 Tech Stack
